@@ -2,14 +2,14 @@
 """
 Created on Sun Jul 12 06:20:16 2026
 
-@author: JAMESHUVO
+@author: Jams
 """
 
 import pandas as pd
 import glob
 import os
 
-folder = r"D:/Tusher/AA Thesis task/Imputed data/XGB_LGBM/XGB_LGBM_Performance_result"
+folder = r"D:/River System/Imputed data/XGB_LGBM/XGB_LGBM_Performance_result"
 
 dfs = []
 

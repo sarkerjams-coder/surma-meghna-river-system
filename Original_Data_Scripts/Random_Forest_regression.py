@@ -2,7 +2,7 @@
 """
 Created on Wed Jun 24 00:57:30 2026
 
-@author: Azizul Islam
+@author: Jams
 """
 
 import pandas as pd
@@ -16,7 +16,7 @@ from sklearn.ensemble import RandomForestRegressor
 # ======================================
 # 1. LOAD DATA
 # ======================================
-df = pd.read_excel(r"E:/Leading university/AA Thesis task/AA Thesis task/Imputed data/Random_Forest_regression/SW 277 WL.xlsx")
+df = pd.read_excel(r"D:/River System/Imputed data/Random_Forest_regression/SW 277 WL.xlsx")
 
 X = df.iloc[:, 1:-1]
 y = df.iloc[:, -1]

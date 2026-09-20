@@ -2,7 +2,7 @@
 """
 Created on Sun Jun 21 14:03:24 2026
 
-@author:Azizul_islam
+@author:Jams
 """
 
 # ===========================
@@ -23,7 +23,7 @@ from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error
 
 
 
-df = pd.read_excel("D:/AA Thesis task/Imputed data/LR File/SW 267 linear Regressin.xlsx")
+df = pd.read_excel("D:/River System/Imputed data/LR File/SW 267 linear Regressin.xlsx")
 
 X=df.iloc[:,1:-1]
 
