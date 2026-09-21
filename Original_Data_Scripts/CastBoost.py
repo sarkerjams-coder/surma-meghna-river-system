@@ -16,7 +16,7 @@ from catboost import CatBoostRegressor
 # ======================================
 # 1. LOAD DATA
 # ======================================
-df = pd.read_excel(r"E:/Leading university/AA Thesis task/AA Thesis task/Imputed data/CatBoost/SW 277 CatBoost.xlsx")
+df = pd.read_excel(r"New Volume D/Imputed Data/CatBoost/SW 277 CatBoost.xlsx")
 
 X = df.iloc[:, 1:-1]
 y = df.iloc[:, -1]
