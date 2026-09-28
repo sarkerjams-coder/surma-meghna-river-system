@@ -1,6 +1,6 @@
 
 
-This repository contains the scripts, methodology, preprocessing workflow, and study-area information used in my **water level prediction study** using machine-learning approaches.
+This repository contains the scripts, methodology, preprocessing workflow, and study-area information used in my **water level prediction study** in Surma-Meghna River System using machine-learning approaches.
 
 ## Repository Structure
 
